@@ -10,37 +10,37 @@ h1 {
   /*  font-size : 562.5%; so that user font prefence doesnt changes our site*/
   font-size: 5.626rem;
   /* also dynamic size*/
-  font-family: 'Sacramento', cursive;
-  margin: 100px auto 0 auto;
-  color: #66BFBF;
+      font-family: 'Sacramento', cursive;
+      margin: 100px auto 0 auto;
+      color: #66BFBF;
 }
 
 h2 {
-  color: #66BFBF;
-  font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
+        color: #66BFBF;
+        font-size: 2.5rem;
+        font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-  color: #11999E;
-  font-size: 1.75rem;
-  font-family: 'Montserrat', sans-serif;
+        color: #11999E;
+        font-size: 1.75rem;
+        font-family: 'Montserrat', sans-serif;
 }
 
 a {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  text-decoration: none;
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
 }
 
 a:hover {
-  color: #EAF6F6;
+           color: #EAF6F6;
 }
 
 .top-container {
-  background-color: #EAF6F6;
-  position: relative;
-  padding-top: 100px;
+          background-color: #EAF6F6;
+          position: relative;
+          padding-top: 100px;
 }
 
 .middle-container {
@@ -126,20 +126,20 @@ hr {
 }
 
 .btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #1999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #1999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #1999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #1999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #1999e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
+      background: #11cdd4;
+      background-image: -webkit-linear-gradient(top, #11cdd4, #1999e);
+      background-image: -moz-linear-gradient(top, #11cdd4, #1999e);
+      background-image: -ms-linear-gradient(top, #11cdd4, #1999e);
+      background-image: -o-linear-gradient(top, #11cdd4, #1999e);
+      background-image: linear-gradient(to bottom, #11cdd4, #1999e);
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: 'Montserrat', sans-serif;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
 }
 
 .btn:hover {
